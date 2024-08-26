@@ -6,7 +6,7 @@ body{
     background-color: black;
 }
 .main{
-   background-image: url(bg.img);
+   background-image:url(bg.img);
    background-position: center center;
    background-size: max(1549px,100vw);
    text-align: center;
